@@ -7,4 +7,5 @@
 	include "sayfalar/alt.php";
 	}if($_SESSION['hesapadi']=="" OR $_SESSION["oturum"]==false){ 
 	include "sayfalar/giris.php";}
+
 ?>
