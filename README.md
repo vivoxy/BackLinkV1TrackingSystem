@@ -57,56 +57,56 @@ Dosyaları web sitenize yükleyiniz. Yükleme tamamlandıktan sonra , SQL klasö
 <br>
 
 <br>
+<img src="https://image.prntscr.com/image/Bs7dqYCHROqB4NTTx9rNuw.png" alt="northeaster">
 
-https://image.prntscr.com/image/Bs7dqYCHROqB4NTTx9rNuw.png
-
-<hr>
-
-<br>
-
-<br>
-
-https://image.prntscr.com/image/L8-TcKfSRam5xTm46T3-ag.png
 
 <hr>
 
 <br>
 
 <br>
+<img src="https://image.prntscr.com/image/L8-TcKfSRam5xTm46T3-ag.png" alt="northeaster">
 
-https://image.prntscr.com/image/J2zE6peMQ_q9jucMhwa1oQ.png
-
-<hr>
-
-<br>
-
-<br>
-
-https://image.prntscr.com/image/VC8u0-qwRW6xojc-L69sEA.png
 
 <hr>
 
 <br>
 
 <br>
+<img src="https://image.prntscr.com/image/J2zE6peMQ_q9jucMhwa1oQ.png" alt="northeaster">
 
-https://image.prntscr.com/image/fPS_0P2SR9KRDZphIOsc3A.png
-
-<hr>
-
-<br>
-
-<br>
-
-https://image.prntscr.com/image/CrNTSRLYQhKDLspUt-DR_Q.png
 
 <hr>
 
 <br>
 
 <br>
+<img src="https://image.prntscr.com/image/VC8u0-qwRW6xojc-L69sEA.png" alt="northeaster">
 
-https://image.prntscr.com/image/CrNTSRLYQhKDLspUt-DR_Q.png
+
+<hr>
+
+<br>
+
+<br>
+<img src="https://image.prntscr.com/image/fPS_0P2SR9KRDZphIOsc3A.png" alt="northeaster">
+
+
+<hr>
+
+<br>
+
+<br>
+<img src="https://image.prntscr.com/image/CrNTSRLYQhKDLspUt-DR_Q.png" alt="northeaster">
+
+
+<hr>
+
+<br>
+
+<br>
+<img src="https://image.prntscr.com/image/CrNTSRLYQhKDLspUt-DR_Q.png" alt="northeaster">
+
 
 <hr>
 
