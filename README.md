@@ -65,7 +65,6 @@ Dosyaları web sitenize yükleyiniz. Yükleme tamamlandıktan sonra , SQL klasö
 <br>
 
 <br>
-<img src="https://image.prntscr.com/image/L8-TcKfSRam5xTm46T3-ag.png" alt="northeaster">
 
 
 <hr>
