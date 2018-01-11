@@ -1,0 +1,18 @@
+RewriteEngine on
+RewriteRule ^index.html$ index.php [L,NC]
+RewriteRule ^default.aspx$ index.php [L,NC]
+RewriteRule ^index.htm$ index.php [L,NC]
+RewriteRule ^default.asp$ index.php [L,NC]
+
+ReWriteRule ^(.*).html$ index.php?sayfa=$1 [L,QSA]
+ReWriteRule ^site-duzenle/(.*)$ index.php?sayfa=siteler&oguzcangokmen=duzenle&gokmendizayn=$1 [L,NC]
+ReWriteRule ^site-ekle$ index.php?sayfa=siteler&oguzcangokmen=ekle [L,NC]
+ReWriteRule ^site-sil/(.*)$ index.php?sayfa=siteler&oguzcangokmen=sil&gokmendizayn=$1 [L,NC]
+ReWriteRule ^kategori-duzenle/(.*)$ index.php?sayfa=kategoriler&oguzcangokmen=duzenle&gokmendizayn=$1 [L,NC]
+ReWriteRule ^kategori-ekle$ index.php?sayfa=kategoriler&oguzcangokmen=ekle [L,NC]
+ReWriteRule ^kategori-sil/(.*)$ index.php?sayfa=kategoriler&oguzcangokmen=sil&gokmendizayn=$1 [L,NC]
+ReWriteRule ^backlink-duzenle/(.*)$ index.php?sayfa=backlink&oguzcangokmen=duzenle&gokmendizayn=$1 [L,NC]
+ReWriteRule ^backlink-ekle$ index.php?sayfa=backlink&oguzcangokmen=ekle [L,NC]
+ReWriteRule ^backlink-sil/(.*)$ index.php?sayfa=backlink&oguzcangokmen=sil&gokmendizayn=$1 [L,NC]
+RewriteRule ^404$ index.php?sayfa=404 [L,NC]
+ErrorDocument 404 /404.html
