@@ -113,8 +113,8 @@ Dosyaları web sitenize yükleyiniz. Yükleme tamamlandıktan sonra , SQL klasö
 <br>
 
 <br>
+<img src="https://image.prntscr.com/image/iMV1kOFJQSKmVPvXHsOGOg.png" alt="northeaster">
 
-https://image.prntscr.com/image/iMV1kOFJQSKmVPvXHsOGOg.png
 
 <hr>
 
